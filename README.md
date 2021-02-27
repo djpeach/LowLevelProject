@@ -1,0 +1,3 @@
+I decided to go with Three.js, and its actually really slick. The docs are great and there is a great seed project for Three.js with npm and webpack configured, which was a huge time-saver. I used a flower model from the project and added a few different lights before settling on the one that rotates and transforms across the flower. I also added a ground block for the flower to be on and added a simple mesh material to that. No really gameplay or anything, but spent a lot of time experiementing with things (especially lights) that eventually got deleted, so had a good amount of fun with it.
+
+The flower model I used is from Poly by Google.
